@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlIslandsCore31.Uwp", "XamlIslandsCore31.Uwp\XamlIslandsCore31.Uwp.csproj", "{8CC6755B-A818-456D-9D86-C007D603A2C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamlIslandsCore31.Wpf", "XamlIslandsCore31.Wpf\XamlIslandsCore31.Wpf.csproj", "{66A54372-79CE-4A60-852C-066F119F5628}"
+EndProject
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "XamlIslandsCore31.Package", "XamlIslandsCore31.Package\XamlIslandsCore31.Package.wapproj", "{A05BF0D5-8DC7-4FAE-B010-0B2D834FCD5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC6755B-A818-456D-9D86-C007D603A2C9}.Debug|x64.ActiveCfg = Debug|x64
+		{8CC6755B-A818-456D-9D86-C007D603A2C9}.Debug|x64.Build.0 = Debug|x64
+		{8CC6755B-A818-456D-9D86-C007D603A2C9}.Release|x64.ActiveCfg = Release|x64
+		{8CC6755B-A818-456D-9D86-C007D603A2C9}.Release|x64.Build.0 = Release|x64
+		{8CC6755B-A818-456D-9D86-C007D603A2C9}.Release|x64.Deploy.0 = Release|x64
+		{66A54372-79CE-4A60-852C-066F119F5628}.Debug|x64.ActiveCfg = Debug|x64
+		{66A54372-79CE-4A60-852C-066F119F5628}.Debug|x64.Build.0 = Debug|x64
+		{66A54372-79CE-4A60-852C-066F119F5628}.Release|x64.ActiveCfg = Release|Any CPU
+		{66A54372-79CE-4A60-852C-066F119F5628}.Release|x64.Build.0 = Release|Any CPU
+		{A05BF0D5-8DC7-4FAE-B010-0B2D834FCD5C}.Debug|x64.ActiveCfg = Debug|x64
+		{A05BF0D5-8DC7-4FAE-B010-0B2D834FCD5C}.Debug|x64.Build.0 = Debug|x64
+		{A05BF0D5-8DC7-4FAE-B010-0B2D834FCD5C}.Debug|x64.Deploy.0 = Debug|x64
+		{A05BF0D5-8DC7-4FAE-B010-0B2D834FCD5C}.Release|x64.ActiveCfg = Release|x64
+		{A05BF0D5-8DC7-4FAE-B010-0B2D834FCD5C}.Release|x64.Build.0 = Release|x64
+		{A05BF0D5-8DC7-4FAE-B010-0B2D834FCD5C}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63891986-27DB-464C-8801-CC06E010DE7F}
+	EndGlobalSection
+EndGlobal
